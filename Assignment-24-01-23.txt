@@ -1,0 +1,50 @@
+                                                              Assignment-4  (24/01/23)
+
+Ques- How to check if git is available on your system?
+Ans-  Check git is available on your systems. Open git bash / cmd on your system and type cmd
+          (git version) , then availabe git version on your system screen so chech available git your system.
+
+Ques- How to initialize a new Git repository?
+Ans- Create a new git repository , open git bash in particular folder , and type cammond in git bash
+         step by step cmd--
+         git init
+         git add (folder name).md
+         git commit -m "add comments"
+         git branch -M main
+         git remote add origin (git repository link)
+         git push -u origin main 
+         
+
+Ques - How to tell git about your name and email?
+Ans - Open git cmd on your system after type cmd--
+          git config -- globle user.name "user name"
+          git config -- globle user.email "xxxxxxworld08@gmail.com"
+          git config --list --show --origin
+         
+
+Ques - How to add a file to the staging area?
+Ans -  Open git bash and type cmd ..
+           git add (file name)/ git add . 
+           then workspace file move to stageArea
+
+Ques- How to remove a file from the staging area?
+Ans - Open git cmd/bash then tpye cmd ---
+         git restore --staged(file name)
+
+Ques - How to make a commit?
+Ans - First of all open git bash repository then tpye cmd (git commit -m "add comments").
+
+Ques - How to change your remote repository?
+ Ans -  Open git bash/ cmd then type cmd...
+             git branch
+             git checkout (type branch name)
+             git merge (branch name)
+             git push origin main
+
+Ques - What is the different between clone and pull?
+Ans-    Clone--
+            Clone use compete branch list and source code will come.
+
+            Pull--
+            Pull is used to get latest source code and new branch details, merge source code into working 
+            directory.
