@@ -1,0 +1,54 @@
+                                                       Assignment-2     (23/01/23)
+
+Ques- What is Git?
+Ans- Git is a popular version control system (VCS), It was created by Linus Torvalds in 2005 
+        and has been maintained by Junio Hamano.
+        Git is used for tracking code changes, Tracking who made changes like history of the files , 
+        coding collaborations.
+
+Ques - What do you understand by the term 'Version control systems'?
+Ans-  Git version control systems terms--
+                   Tracking code changes
+                   Tracking who made vhanges likes history of the files
+                   Tracking collaborations 
+
+Ques- What is Github?
+Ans-  Git software installed in your local pc then work in Github. Github (Git server, bitbucket) 
+         is store/save your data(codes and files)  for long terms . You are add,commit/update and push /pull 
+         on Github server.
+
+Ques- Mention some popular git hosting services.
+Ans-  Distributed version contol system is provied some popular service.
+         Developer (1,2,3 etc... ) worksplace--(add)--StageArea--(commit/update)--
+         Local repository--(Push/pull)--Git server
+
+Ques- Different types of version control systems.
+Ans- There are three types of version control systems.
+          1: Loal version control system (LVCS)
+          2: Centralized version control system (CVCS)
+          3: Distributed version control system (DVCS)
+
+Ques- What are benefits come with using Git?
+Ans-  There are many types benefits of git-
+          1: Save data (coding and files etc..) in git.
+          2: Save small to large project in git.
+          3: Git data access many developer as your permission.
+          4: Git developer changes in codes.
+          5: Git data access many places.
+               etc....
+
+Ques- What is a git repository?
+Ans-  Git repository is same as create a new folders and save different types files and coding 
+         in git repository as per my openion.
+
+Ques- How can you initialize a repository in git?
+Ans - Git repositry initialize on your systems. First of all create new folder in your pc and 
+         create new repository in your github.
+         steps---brush cmd...........
+              git init 
+              git add .
+              git commit -m "first commit"
+              git branch -m main 
+              git remote add origin (repository links)
+              git push -u origin main
+         
