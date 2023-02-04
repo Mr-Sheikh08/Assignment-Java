@@ -1,0 +1,54 @@
+                                                   Assignment - (Fundamentals of Java ) - 26-01-23
+
+Ques - What is Programming language?
+Ans- Making a set of instruction that instruct a computer how to carry out a task is the process of 
+         programming . Tere are numerous computer programing language available for use in 
+         programming.
+         
+        Category of programming languages:
+         1- Machine level language
+         2- Assembly languages
+         3- High- level language
+
+Ques- Why do we need a programming language?
+Ans-   Programiming language is important in our daily life life to enhance and increase the power of computers,
+           mobile solutions, and the internet . 
+           some example---
+          - Programiming language is real world not a academics.
+          - Due to progrsmmes developes bt computer programming
+             You can use online banking ,shoping and tickets and many more.
+             
+Ques- What are the features of java?
+Ans-    Object oriented- The feature of object-oriented programming are supported by Java. Its object model is straight forword and flexible.
+            -Plateform independent
+            -Simple
+            -Secure
+            -Portable 
+            -Robust
+            -Multi-theaded
+            -distributed
+
+Ques- What is an object?
+Ans- An object is an entity with state and behaviour, such as a chair , bike , maker, pen, table, or car.
+        It could be intellectual or physical (tangible and intangible). The banking system is an illustration of an intangible entity.
+            there are three tpyes of objects..
+             1- State
+             2 - Behavior
+             3- Identity  
+
+Ques- What is a class?
+Ans -   A class is collection of iterms with similar characteristics . It serves as a model or blueprint from which things
+            can be made . It makes sense as a whole . It cannot be bodily.
+            Java classes---
+                    Field
+                    Method
+                    Constructors
+                    Blocks
+                    Nested class and interface
+
+Ques- Explain about the main () menthod in java?
+Ans-   The main () is the starting point for jvm to start execution of a java program. Without the main() method , JVM will not execute the programing 
+           The syntax of the main() method is public . It is an soecifier. We should use a public keyword before the main()
+            main() so that JVM can identify the execution point of the program. 
+
+             public statics void main(string args[])
