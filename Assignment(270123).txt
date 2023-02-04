@@ -1,0 +1,79 @@
+                                                 Assignment-(Java variables and Data types)-27/01/23
+
+Ques - What is statically typed and dynamially typed programming language?
+Ans- Statically types - programming languages are referred to as static typed if the memory of the 
+          variable is provided at the time of compilation.
+          Ex- c, c++, Java 
+          
+         Dynamically typed - programming languages are said to as dynamically typed if the 
+         memory for the variable is provided at the time of execution.
+         Ex- Python, PHP, and Javascript
+
+Ques- What is the variable in Java?
+Ans- *A variable is the name of a memory allocated reserved area. It may be thought of as the 
+         name of a memory loation , in other words.
+        *While the java programme is running, the value is held in a container.
+        *To identify the storage loation , each variable needs to have a special name.
+        *A data type is assigned variable .
+
+Ques- How to assign a value to variable?
+Ans - The veriable_name is the name of an variable . We can initise the variable an equal sign and a value
+         However, the compiler never assigns a default value to an uninitialized local variable in java.
+          Ex--
+                               (int age = 20)
+
+         Where-    int = datatype
+                         age=variable_name
+                         20= value 
+
+Ques - What are primitive data types in Java?
+Ans - Primitive data types --
+              Boolean
+              byte
+              short
+              int
+              long
+              double
+              float
+              char
+
+Ques - What are the identifiers in Java?
+Ans-    An identifuer is a name given to a package, class, interface, method, or variable .
+           All identifiers must have different names.
+           There are fev tipes for identifiers:
+            1-All identifers should begin with a letter(A to Z or a to z), $ and _ and must be unique.
+            2-After the first character/letter, identifiers can have any combination of charaters.
+            3-A keyword cannot be used as an identifiers.
+            4-The identifiers are case sensitive.
+            5-Whitespaces are not permitted
+
+Ques- List the operators in Java?
+Ans-   There are six types of java operators--
+          1- Arithmetic operators
+          2-Relational operators
+          3-Logical operators
+          4-Assignment operators
+          5-Unary operators
+          6-Bitwise operators
+
+Ques - Explain about increment and decrement operators and give an examples.
+Ans -
+       *Increment Operator--
+        Increment Operators are the unary operators used to increment or add 1 to the operand value. The Increment 
+       operand is denoted by the double plus symbol (++).
+
+                     (X=A++)
+
+            It has two types-
+                          Pre Increment Operators
+                          Post Increment Operators
+
+         *Decrement Operator-
+         Decrement Operator is the unary operator, which is used to decrease the original value of the operand by 1. 
+         The decrement operator is represented as the double minus symbol (--). 
+
+                      (Y=A--)
+
+             It has two types-
+                    Pre Decrement operators
+                    Post Decrement operators.
